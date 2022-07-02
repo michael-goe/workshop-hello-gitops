@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: michael322515/hello-gitops
-  newTag: d66a6413060a0a613d4f08134d894f570b085f71
+  newTag: 53ee576343bbc2b526f363456782c3a98adc2c18
