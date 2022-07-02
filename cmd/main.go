@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-const PORT = 8080
+const PORT = 8082
 
 func main() {
 	startServer(handler)
